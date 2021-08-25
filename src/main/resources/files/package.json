@@ -9,14 +9,14 @@
   "author": "",
   "license": "ogl",
   "devDependencies": {
-    "grunt": "~0.4.2",
-    "grunt-contrib-concat": "~0.3.0",
-    "grunt-contrib-uglify": "~0.2.7",
-    "grunt-contrib-cssmin": "0.10.0",
-    "grunt-usemin": "~2.0.2",
-    "grunt-contrib-copy": "~0.5.0",
-    "grunt-contrib-clean": "~0.5.0",
-    "grunt-ng-annotate": "^0.4.0",
-    "matchdep": "~0.3.0"
+    "grunt": "^1.4.1",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^4.0.0",
+    "grunt-contrib-uglify": "^5.0.1",
+    "grunt-ng-annotate": "^4.0.0",
+    "grunt-usemin": "^0.1.13",
+    "matchdep": "^2.0.0"
   }
 }
