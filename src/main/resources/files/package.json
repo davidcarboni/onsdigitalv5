@@ -18,5 +18,8 @@
     "grunt-ng-annotate": "^4.0.0",
     "grunt-usemin": "^0.1.13",
     "matchdep": "^2.0.0"
+  },
+  "dependencies": {
+    "minimist": "^1.2.5"
   }
 }
